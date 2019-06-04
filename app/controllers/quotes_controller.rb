@@ -4,11 +4,10 @@ class QuotesController < ApplicationController
 
 	end
 
-	def new
-		@quote = Quote.new
+	
 
 
-	end
+	
 
 
 	def create
